@@ -14,13 +14,8 @@ I'm Afiq, a backend-focused developer passionate about building robust systems, 
 ### 🧰 Tech Stack
 - 🖥️ Backend: Node.js (Express), Go (soon), PHP (Laravel), Python (Flask)
 - 🌐 Frontend: Vue, Next.js, Nuxt.js
-- 📦 Database: PostgreSQL, MySQL, SQLite
+- 📦 Database: PostgreSQL, MySQL, SQLite, SQL Server
 - ☁️ Cloud & DevOps: Docker, Vercel, Google Cloud Platform
-
----
-
-### 🧠 Currently Learning
-- Golang
 
 ---
 
@@ -28,4 +23,3 @@ I'm Afiq, a backend-focused developer passionate about building robust systems, 
 - IG: [@muhafiqq_](https://instagram.com/muhafiqq_)
 - LinkedIn: [Muh. Afiq Ma'mun](https://www.linkedin.com/in/muh-afiq-mamun/)
 - Blog: (coming soon)
-
